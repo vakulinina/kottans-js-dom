@@ -45,7 +45,6 @@ nav {
   height: 100%;
   min-width: 155px;
   font-size: 18px;
-  overflow: scroll;
   padding: 3% 0 0 5%;
 }
 
@@ -95,7 +94,6 @@ button:active {
   justify-content: center;
   width: 80%;
   padding: 5%;
-  overflow: scroll;
 }
 
 .item-image {
